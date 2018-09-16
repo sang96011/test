@@ -1,3 +1,9 @@
 n2 write to n1.txt
 n1 write n1
 n2 write ni.txt after n1 commit
+
+o1 write
+
+o1 write
+o2 nnn
+
