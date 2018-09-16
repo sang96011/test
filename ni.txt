@@ -1,0 +1,2 @@
+n1 write1
+ n1 write ni l2
