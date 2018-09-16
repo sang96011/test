@@ -1,2 +1,4 @@
 n1 write1
- n1 write ni l2
+n1 write ni l2
+n2 write agaiin ni.txt
+
