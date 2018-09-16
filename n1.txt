@@ -1,0 +1,3 @@
+n2 write to n1.txt
+
+n1 write n1
