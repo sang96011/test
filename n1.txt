@@ -1,0 +1,1 @@
+n2 write ni.txt after n1 commit
